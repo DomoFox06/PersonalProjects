@@ -22,3 +22,15 @@ elif age > cpuAGE:
 
 elif age == cpuAGE:
     print (f"Hey, we're the same age!")
+
+print ("Look at this!")    
+a = 3-4
+b = 3+4
+c = 3*4
+d = 3/4
+e = 3//4
+f = 3%4
+h = 3**4
+print ("We have 3 blank 4. Let's fill in the blank!")
+
+print (f"Sub: " {a} "Sum: "{b} "Multi: "{c} "Divi1: " {d} "Divi2: "{e} "Divi3: "{f} "Pow: "{h})
