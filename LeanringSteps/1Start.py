@@ -33,4 +33,4 @@ f = 3%4
 h = 3**4
 print ("We have 3 blank 4. Let's fill in the blank!")
 
-print (f"Sub: " {a} "Sum: "{b} "Multi: "{c} "Divi1: " {d} "Divi2: "{e} "Divi3: "{f} "Pow: "{h})
+print(f"Sub: {a}  Sum: {b}  Multi: {c}  Divi1: {d}  Divi2: {e}  Divi3: {f}  Pow: {h}")
